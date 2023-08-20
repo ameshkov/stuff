@@ -1,0 +1,2 @@
+# Test adult blocklist for AdGuard DNS
+adult.example.org
