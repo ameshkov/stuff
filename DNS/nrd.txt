@@ -1,0 +1,2 @@
+# Test newly registered domains for AdGuard DNS
+nrd.example.org
